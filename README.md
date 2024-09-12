@@ -8,7 +8,8 @@
 :-- | :-- | :--
 [Таблица итогов](https://docs.google.com/spreadsheets/d/1rtYymujWHRgvxA8Lqms0MuJ0MtaOHghhTcO63BTDWwA/edit?usp=sharing) | [Язык программирования Python. 2023. ВМК МГУ](https://www.youtube.com/watch?v=Dy_ueC-Girk&list=PL6kSdcHYB3x5PzO26mzRFU6NmsRqd6WgL) | [MTS True Tech Day. JIT в Python3.13](https://www.youtube.com/watch?v=qaHGzRD3pHg&list=PLBf6S6ZuTomoUSjI_smbTvj-xMouwF0SF&index=1)
 [Страница курса Python base](https://pyshkovni.github.io/python_base/) | [Операционные системы 2024. МГТУ кафедра ИУ9](https://youtu.be/cEjAH5ghWbY?si=-RWlNNg6tlFOVrcI) | [MTS True Tech Day. Туллинг в Python по управления](https://www.youtube.com/watch?v=Uu1jslSHTOo&list=PLBf6S6ZuTomoUSjI_smbTvj-xMouwF0SF&index=3)
-Тестирование курса (позже) | [Алгоритмы на Python3 2018. Кафедра информатики МФТИ](https://youtu.be/KdZ4HF1SrFs?si=_iPbI7t3UYCe_alH) |
+[Список кейсов и лекций](#кейсы)| [Алгоритмы на Python3 2018. Кафедра информатики МФТИ](https://youtu.be/KdZ4HF1SrFs?si=_iPbI7t3UYCe_alH) |
+Тестирование курса (позже) |  |
 Сдача заданий codewars (позже)| |
 
 ---
