@@ -128,7 +128,7 @@
 Название | Время
 :-- | :--
 [Введение](https://docs.google.com/presentation/d/1Exy-g6MDnljAMd7XoRHuptF8yBSy8KvOGfP8Bf0tSiM/edit?usp=sharing) | 1 пара
-Место Python в современном мире | 1 пара
+[Место Python в современном мире](./about_python_lecture/) | 1 пара
 Основы Python | 1 пара
 Совместная разработка. Теория Git | 2 пары
 Библиотеки Python | 2 пары
