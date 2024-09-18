@@ -101,7 +101,7 @@
 
 * Пример решения задач в codewars https://youtu.be/Q3fZm7lsZi0
 
-[Профиль codewars необходимо прислать до _29.11.2024 20:59_ по ссылке](https://forms.yandex.ru/cloud/66d7d7d83e9d0827749b5db0/)
+[Профиль codewars необходимо прислать до _29.11.2024 20:59_ по ссылке](https://forms.yandex.ru/cloud/66e9d2473e9d080edcda484a/)
 
 ### Кейсы
 
