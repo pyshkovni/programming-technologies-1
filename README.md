@@ -12,6 +12,7 @@
   * [Таблица итогов](https://docs.google.com/spreadsheets/d/1rtYymujWHRgvxA8Lqms0MuJ0MtaOHghhTcO63BTDWwA/edit?usp=sharing)
   * [Страница курса Python base](https://pyshkovni.github.io/python-base-course/)
   * [Сдача заданий codewars](https://forms.yandex.ru/cloud/66e9d2473e9d080edcda484a/)
+  * [Список задач codewars, которые уже решены](https://disk.yandex.ru/d/1WPKv5NVwAAlLw)
   * Тестирование курса (позже)
 
 </details>
@@ -98,7 +99,7 @@
   
   * Вам необходимо решить достаточно задач для получения уровня 7.
   
-  * Список задач не может повторяться у сокурсников более чем на 50%. Список решенных задач будет публиковаться в таблице итогов по мере сдачи работ.
+  * Список задач не может повторяться у сокурсников более чем на 50%. [Вот список задач codewars, которые уже решены!](https://disk.yandex.ru/d/1WPKv5NVwAAlLw)
   
   * Подробнее о задании по ссылке https://youtu.be/0mgCQjvdinw
   
