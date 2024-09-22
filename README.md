@@ -121,7 +121,7 @@
 
 </details>
 
-<details open> 
+<details> 
   <summary><h3>📚 Дополнительные курсы и литература</h3></summary>
 
   * [Язык программирования Python. 2023. ВМК МГУ](https://www.youtube.com/watch?v=Dy_ueC-Girk&list=PL6kSdcHYB3x5PzO26mzRFU6NmsRqd6WgL)
