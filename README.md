@@ -13,6 +13,7 @@
   * [Страница курса Python base](https://pyshkovni.github.io/python-base-course/)
   * [Сдача заданий codewars](https://forms.yandex.ru/cloud/66e9d2473e9d080edcda484a/)
   * [Список задач codewars, которые уже решены](https://disk.yandex.ru/d/1WPKv5NVwAAlLw)
+  * [Инструкция по настройке VS Code, Git и изолированной среды](./python_ide/README.md#настройка-среды-разработки-vs-code-git-и-изолированная-среда)
   * Тестирование курса (позже)
 
 </details>
