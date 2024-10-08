@@ -28,6 +28,14 @@
 
 ## Настройка среды разработки VS Code, Git и изолированная среда
 
+### Персональное устройство
+
+Подробнее о настройке вы можете изучить в следующих видеороликах
+
+* [Для Windows](https://www.youtube.com/watch?v=Gcuy6U02lJg)
+  
+* [Для MacOS](https://www.youtube.com/watch?v=dtm0-bvGyaQ)
+
 ### Компьютер Windows в Академии
 
 1. Открыть в меню Пуск `PowerShell`
