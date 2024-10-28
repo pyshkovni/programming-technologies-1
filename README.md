@@ -34,7 +34,7 @@
 
   * [Место Python в современном мире](./about_python_lecture/README.md)
   * [Работа с Python в среде разработки](./python_ide/README.md)
-  * Совместная разработка. Теория Git
+  * [Совместная разработка. Теория Git](./git_basic/README.md)
   * Библиотеки Python
 
 </details>  
@@ -130,6 +130,12 @@
   * [Алгоритмы на Python3 2018. Кафедра информатики МФТИ](https://youtu.be/KdZ4HF1SrFs?si=_iPbI7t3UYCe_alH)
   * [MTS True Tech Day. JIT в Python3.13](https://www.youtube.com/watch?v=qaHGzRD3pHg&list=PLBf6S6ZuTomoUSjI_smbTvj-xMouwF0SF&index=1)
   * [MTS True Tech Day. Туллинг в Python по управления](https://www.youtube.com/watch?v=Uu1jslSHTOo&list=PLBf6S6ZuTomoUSjI_smbTvj-xMouwF0SF&index=3)
+  * [Guido van Rossum. Python Developer’s Guide](https://devguide.python.org/)
+  * Воган Л. «Непрактичный» Python: занимательные проекты для тех, кто хочет поумнеть
+  * Майер Кристиан. Однострочники Python: лаконичный и содержательный код
+  * Al Sweigar. Automate the boring Stuff with Python Practical Programming for Total Beginners
+  * Фаулер Мэттью. Asyncio и конкурентное программирование на Python
+  * Ной Гифт, Кеннеди Берман, Альфредо Деза, Григ Георгиу. Python и DevOps: Ключ к автоматизации Linux.
 
 </details>
 
