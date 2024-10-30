@@ -69,7 +69,13 @@ git -v
 11. В открывшемся терминале введите команду
 
 ```
-python3 -m venv .venv
+pip3 install virtualenv
+```
+
+Затем
+
+```
+virtualenv .venv
 ```
 
 Справа в проводнике VS Code появится новая папка `.venv`
