@@ -23,8 +23,7 @@
 
   * [Стресс-Python](https://github.com/pyshkovni/timp-stress-python)
   * [Создание проекта](https://github.com/pyshkovni/git-project)
-  * Открытая модель разработки (позже)
-  * Автоматизация бизнес-процессов (позже)
+  * [Открытая модель разработки/Автоматизация бизнес-процессов](https://github.com/pyshkovni/routine-python-scripts)
   * Работа с данными (позже)
 
 </details>
